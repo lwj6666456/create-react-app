@@ -1,3 +1,17 @@
+#该框架用于练习，原有说明保留
+# webpack 修改
+```
+npm run eject
+```
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
